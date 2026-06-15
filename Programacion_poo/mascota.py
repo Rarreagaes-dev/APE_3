@@ -70,3 +70,4 @@ class Mascota:
 
         mascota2.mostrar_informacion()
         mascota2.hacer_sonido()
+        
